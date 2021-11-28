@@ -1,1 +1,1 @@
-# gun_detection
+# Gun Detection in Real-time video footage using OpenCV and Machine Learning
